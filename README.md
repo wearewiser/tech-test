@@ -1,3 +1,5 @@
+<img src="http://s13.postimg.org/8fylyn7mv/test_test.png" />
+
 # Wiser Technical Test (PHP)
 
 Bullhorn (http://bullhornstaffing.com) is a CRM for recruitment agencies. It allows Wiser's recruitment consultants to track new job applications and manage candidates through the recruitment process - from application, to interviews and finally when they're placed in a role.

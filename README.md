@@ -11,7 +11,7 @@ Create a Laravel application that allows you to submit a new candidate remotely 
 1. Laravel 5
 2. The application requires a username and password login to access
 3. The form must submit data using AJAX
-4. The application must create a new Candidate entity on Bullhorn, then parse their CV which is uploaded through a <input type="file" />
+4. The application must create a new Candidate entity on Bullhorn, then parse their CV which is uploaded through a file input.
 5. Once the candidate is created and the CV is parsed, the application must display a success then get that new candidate record from Bullhorn and display it in a table - again, all through AJAX.
 
 # Useful Links
